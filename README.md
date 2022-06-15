@@ -3,9 +3,9 @@
  
  ## *Django Project-Fully Functional Personal Portfolio Website*
  
- #### *This project is about developing a portfolio website to showcase personal projects/works. This project has been written in django, python, html and css.*
+ #### *This project is about developing a portfolio website to showcase personal projects/works. This project has been developed in django, python, html and css.*
 
-*This project has been developed in Windows platform.*
+*This project was developed and implemented in Windows platform.*
 
 Modules:
 
