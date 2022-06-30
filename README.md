@@ -1,4 +1,4 @@
-# Class Project-Personal Portfolio Website
+# Class Project: Part 2 – Personal Portfolio Website
  
  
  ## *Django Project-Fully Functional Personal Portfolio Website*
